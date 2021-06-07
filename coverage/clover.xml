@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1623099329873" clover="3.2.0">
-  <project timestamp="1623099329873" name="All files">
+<coverage generated="1623102686702" clover="3.2.0">
+  <project timestamp="1623102686702" name="All files">
     <metrics statements="11" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0" elements="12" coveredelements="4" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
     <file name="App.jsx" path="/Users/elizabethphung/HackReactorSEI/FEC-135/client/src/components/App.jsx">
       <metrics statements="11" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
